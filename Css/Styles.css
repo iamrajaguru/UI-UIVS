@@ -1,5 +1,7 @@
 .bg {
-    background-color: #4C0027;
+    background-color: #4c0027;
+    color: aliceblue;
+    opacity: 0.9
   }
   .centered {
     position: absolute;
