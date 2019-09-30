@@ -14,3 +14,9 @@
     border-color: black;
     
   }
+
+
+  .img-myStyle {
+     max-width: 100%;
+     height: auto; 
+  }
